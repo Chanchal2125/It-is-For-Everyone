@@ -30,7 +30,10 @@
 - Try to keep pull requests small to minimize merge conflicts.</li>
 
 # 📚 How to edit CONTRIBUTORS.md?
-- Add your name with github profile link such as 👉 <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
+- Add your name with github profile link such as 👇
+    ```
+    <a href="https://github.com/username" target="_blank">Your name</a>
+    ```
 
 # 🤩🤗 Getting Started
     
