@@ -30,9 +30,7 @@
 - Try to keep pull requests small to minimize merge conflicts.</li>
 
 # 📚 How to edit CONTRIBUTORS.md?
-- Add your name 
-- Add your github profile link
-    - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
+- Add your name with github profile link such as 👉 <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
 
 # 🤩🤗 Getting Started
     
@@ -92,4 +90,4 @@ git push origin my-new-branch
 # 👸 Created by
 Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
 
-<b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
+<b>Follow 👉<a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
