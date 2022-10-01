@@ -10,6 +10,11 @@
 <br>
 <img src="https://github.com/CODING-Enthusiast9857/It-is-For-Everyone/blob/main/Hacktoberfest.png" alt="Hacktoberfest2022" width=100%>
 
+- Guys, as the name of repository suggests, this is an <b>open-source contribution</b> opportunity for everyone for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2022. 
+- So, you can add your code and pull your request. 
+- If it fulfills criteria, I will definitely merge it. 
+- Hurry up guys...!! You are only few steps away to complete your Hacktoberfest challenge. Make 4 pull requests and complete your hacktoberfest challenge and get a chance to win T-shirt. 
+- It is for only 1 month.
 # ✨ For contribution 
 - You can contribute your code in any one language like c, c++, java, python etc.
 - Your code should be neat and clean
