@@ -15,6 +15,7 @@
 - If it fulfills criteria, I will definitely merge it. 
 - Hurry up guys...!! You are only few steps away to complete your Hacktoberfest challenge. Make 4 pull requests and complete your hacktoberfest challenge and get a chance to win T-shirt. 
 - It is for only 1 month.
+
 # ✨ For contribution 
 - You can contribute your code in any one language like c, c++, java, python etc.
 - Your code should be neat and clean
@@ -27,6 +28,11 @@
 - Do NOT remove other content.
 - Add your name to the <b>CONTRIBUTORS.md</b> file
 - Try to keep pull requests small to minimize merge conflicts.</li>
+
+# 📚 How to edit CONTRIBUTORS.md?
+- Add your name 
+- Add your github profile link
+    - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
 
 # 🤩🤗 Getting Started
     
