@@ -7,6 +7,13 @@
 <br>
 <img src="https://github.com/CODING-Enthusiast9857/It-is-For-Everyone/blob/main/Hacktoberfest.png" alt="Hacktoberfest2022" width=100%>
 
+# ✨ For contribution 
+- You can contribute your code in any one language like c, c++, java, python etc.
+- Your code should be neat and clean
+- You can add any code but it should not be repeated. To avoid redundancy, check all codes before
+- Add your code to the relevant folder
+    - e.g If your code contains Python code then it should be in python folder
+
 # 📚 Contribution rules
 - Do NOT remove other content.
 - Add your name to the <b>CONTRIBUTORS.md</b> file
@@ -46,7 +53,7 @@ git push origin my-new-branch
 
 - Create a new pull request from your forked repository
 
-# FAQs (Frequently Asked Questions)
+# ❓ FAQs (Frequently Asked Questions)
 
 - Who all can contribute?
   - Anyone with a github account and who is signed up for
@@ -67,7 +74,7 @@ git push origin my-new-branch
 # 📝 Licensed by
 <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
 
-# &#128105; Created by
+# 👸 Created by
 Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
 
 <b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
