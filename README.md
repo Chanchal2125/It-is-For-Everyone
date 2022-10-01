@@ -7,7 +7,6 @@
 [![Hacktoberfest-22](https://img.shields.io/static/v1.svg?label=Hacktoberfest-22&message=accepted&color=red)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/the-hack3rboy/Hacktoberfest-2022) 
 </b>
-
 <br>
 <img src="https://github.com/CODING-Enthusiast9857/It-is-For-Everyone/blob/main/Hacktoberfest.png" alt="Hacktoberfest2022" width=100%>
 
