@@ -17,6 +17,7 @@
 - You can add any code but it should not be repeated. To avoid redundancy, check all codes before
 - Add your code to the relevant folder
     - e.g If your code contains Python code then it should be in python folder
+- If the folder of any language is not exists already then create it and add your code
 
 # 📚 Contribution rules
 - Do NOT remove other content.
