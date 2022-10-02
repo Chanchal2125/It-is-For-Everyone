@@ -47,3 +47,5 @@
 - <a href="https://github.com/thestuti" target="_blank">Stuti Upreti</a>
 
 - <a href="https://github.com/Dishant10" target="_blank">Dishant Nagpal</a>
+
+- <a href="https://github.com/qasim0014" target="_blank">Muhammad Qasim</a>
