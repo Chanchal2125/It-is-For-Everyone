@@ -1,8 +1,5 @@
- Return value: 
- It returns a string object.
-
-
 // CPP program to illustrate substr()
+
 #include <string.h>
 #include <iostream>
 using namespace std;
