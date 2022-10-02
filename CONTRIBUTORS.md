@@ -7,4 +7,5 @@
 - <a href="https://github.com/FuriKuri" target="_blank">Theo Pack</a>
 
 - <a href="https://github.com/Unseen-firebrand" target="_blank">Abhishek Mishra</a>
+- <a href="https://github.com/Yingchid" target="_blank">Yingchid Kanmai</a>
 
