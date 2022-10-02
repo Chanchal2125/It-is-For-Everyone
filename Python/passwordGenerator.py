@@ -9,9 +9,6 @@ number_characters = int(input(f"How many symbols would you like?\n"))
 number_numbers = int(input(f"How many numbers would you like?\n"))
 
 
-#Eazy Level - Order not randomised:
-#e.g. 4 letter, 2 symbol, 2 number = JduE&!91
-
 password= ""
 
 for i in range(0,number_letters):

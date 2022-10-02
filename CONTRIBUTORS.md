@@ -2,6 +2,8 @@
 
 - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a>
 
+- <a href="https://github.com/codingis4noobs2" target="_blank">Parth Shah</a>
+
 - <a href="https://github.com/PradeepKhatri" target="_blank">Pradeep Khatri</a>
 
 - <a href="https://github.com/FuriKuri" target="_blank">Theo Pack</a>
@@ -69,3 +71,12 @@
 - <a href="https://github.com/surjendu104" target="_blank">Surjendu Pal</a>
 
 - <a href="https://github.com/thecasanovaa" target="_blank">Casanova</a>
+=======
+
+- <a href="https://github.com/beingcoder29" target="_blank">Arko</a>
+
+
+- <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
+
+
+>>>>>>> c9109630a8745bbd21a13213646655e157d07cbf
