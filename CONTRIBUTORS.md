@@ -8,6 +8,8 @@
 
 - <a href="https://github.com/Unseen-firebrand" target="_blank">Abhishek Mishra</a>
 
+- <a href="https://github.com/guptamanu409" target="_blank">Vishal Gupta</a>
+
 - <a href="https://github.com/Yingchid" target="_blank">Yingchid Kanmai</a>
 
 - <a href="https://github.com/TGFlame" target="_blank">Advait Manke</a>
