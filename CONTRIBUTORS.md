@@ -41,3 +41,5 @@
 - <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a> 
 
 - <a href="https://github.com/vipul723" target="_blank">Vikas Kaushik</a>
+
+- <a href="https://github.com/thestuti" target="_blank">Stuti Upreti</a>
