@@ -25,3 +25,4 @@
 - <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a> 
  
 - <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
+- <a href="https://github.com/temirovazat" target="_blank">Temirov Azat</a>
