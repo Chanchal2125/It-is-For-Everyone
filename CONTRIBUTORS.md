@@ -58,5 +58,8 @@
 
 - <a href="https://github.com/Aviral2002" target="_blank">Aviral Jain</a>
 
-- <a href="https://github.com/AJTEACH" target="_blank">AJTEACJ</a>
+- <a href="https://github.com/arka9088" target="_blank">Arkapravo</a>
 
+- <a href="https://github.com/eby8zevin" target="_blank">Ahmad Abu Hasan</a>
+
+- <a href="https://github.com/AJTEACH" target="_blank">AJTEACJ</a>
