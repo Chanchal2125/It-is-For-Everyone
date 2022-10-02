@@ -44,4 +44,6 @@
 
 - <a href="https://github.com/vipul723" target="_blank">Vikas Kaushik</a>
 
+- <a href="https://github.com/thestuti" target="_blank">Stuti Upreti</a>
+
 - <a href="https://github.com/Dishant10" target="_blank">Dishant Nagpal</a>
