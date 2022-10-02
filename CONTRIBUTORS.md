@@ -32,8 +32,14 @@
  
 - <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
 
+- <a href="https://github.com/Nikhilcode123" target="_blank">Nikhil Sharma</a>
+
+- <a href="https://github.com/Sayak-Rana" target="_blank">Sayak Rana</a>
+
 - <a href="https://github.com/devtanumisra" target="_blank">Devtanu Misra</a>
 
 - <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a> 
-- 
+ 
 - <a href="https://github.com/fanchann" target="_blank">FanChann</a>
+
+- <a href="https://github.com/vipul723" target="_blank">Vikas Kaushik</a>
