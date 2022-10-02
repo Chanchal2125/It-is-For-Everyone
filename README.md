@@ -27,6 +27,7 @@
 # 📚 Contribution rules
 - Do NOT remove other content.
 - Add your name to the <b>CONTRIBUTORS.md</b> file
+- Add me as reviewer
 - Try to keep pull requests small to minimize merge conflicts.</li>
 
 # 📚 How to edit CONTRIBUTORS.md?
