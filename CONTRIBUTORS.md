@@ -32,6 +32,8 @@
  
 - <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
 
+- <a href="https://github.com/temirovazat" target="_blank">Temirov Azat</a>
+
 - <a href="https://github.com/Nikhilcode123" target="_blank">Nikhil Sharma</a>
 
 - <a href="https://github.com/Sayak-Rana" target="_blank">Sayak Rana</a>
@@ -41,3 +43,13 @@
 - <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a> 
 
 - <a href="https://github.com/backtoaldo" target="_blank">Aldo Costa Silveira</a>
+
+- <a href="https://github.com/fanchann" target="_blank">FanChann</a>
+
+- <a href="https://github.com/vipul723" target="_blank">Vikas Kaushik</a>
+
+- <a href="https://github.com/thestuti" target="_blank">Stuti Upreti</a>
+
+- <a href="https://github.com/Dishant10" target="_blank">Dishant Nagpal</a>
+
+- <a href="https://github.com/qasim0014" target="_blank">Muhammad Qasim</a>
