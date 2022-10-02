@@ -12,3 +12,4 @@
 - <a href="https://github.com/TGFlame" target="_blank">Advait Manke</a>
 
 - <a href="https://github.com/TGFlame" target="_blank">Utkarsh Agarwal</a>
+- <a href="https://github.com/adityahajari14" target="_blank">Aditya Hajari</a>
