@@ -17,6 +17,17 @@
 - <a href="https://github.com/balitax" target="_blank">Agus Cahyono</a>
 
 - <a href="https://github.com/TGFlame" target="_blank">Utkarsh Agarwal</a>
+
 - <a href="https://github.com/adityahajari14" target="_blank">Aditya Hajari</a>
+
+- <a href="https://github.com/SanketJ29" target="_blank">Sanket Jaiswal</a>
+
 - <a href="https://github.com/harshitkumar77" target="_blank">Harshit Kumar</a>
+
 - <a href="https://github.com/Elhasssen" target="_blank">ElHassen Boumeddiene</a>
+
+- <a href="https://github.com/Shashwat49" target="_blank">Shashwat Shivam</a>
+
+- <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a> 
+ 
+- <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
