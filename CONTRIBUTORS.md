@@ -90,8 +90,17 @@
 
 - <a href="https://github.com/codeswithroh" target="_blank">Rohit Purkait</a>
 
+- <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
+
+- <a href="https://github.com/ranodeepbanerjee" target="_blank">Ranodeep Banerjee</a>
+
+- <a href="https://github.com/Justiphi" target="_blank">JustiPhi</a>
+
 - <a href="https://github.com/Isha333-web" target="_blank">Isha</a>
 
 - <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
 
 - <a href="[https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
+
+- <a href="https://github.com/sNishant011" target="_blank">Nishant Shrestha</a>
+
