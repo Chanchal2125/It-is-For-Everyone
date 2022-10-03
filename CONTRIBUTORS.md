@@ -22,6 +22,8 @@
 
 - <a href="https://github.com/adityahajari14" target="_blank">Aditya Hajari</a>
 
+- <a href="https://github.com/RaunakAgarwal18" target="_blank">Raunak Agarwal</a>
+
 -<a href="https://github.com/Dhanshriborse" target="_blank">Dhanshri Borse</a>
 
 - <a href="https://github.com/SanketJ29" target="_blank">Sanket Jaiswal</a>
