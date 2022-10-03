@@ -16,20 +16,6 @@
 - Hurry up guys...!! You are only few steps away to complete your Hacktoberfest challenge. Make 4 pull requests and complete your hacktoberfest challenge and get a chance to win T-shirt. 
 - It is for only 1 month.
 
-# ✨ For contribution 
-- You can contribute your code in any one language like c, c++, java, python etc.
-- Your code should be neat and clean
-- You can add any code but it should not be repeated. To avoid redundancy, check all codes before
-- Add your code to the relevant folder
-    - If your code contains Python code then it should be in python folder
-- If the folder of any language is not exists already then create it and add your code
-
-# 📚 Contribution rules
-- Do NOT remove other content.
-- Add your name to the <b>CONTRIBUTORS.md</b> file
-- Add me as reviewer
-- Try to keep pull requests small to minimize merge conflicts.</li>
-
 # 📚 How to edit CONTRIBUTORS.md?
 - Add your name with github profile link such as 👇
     ```
