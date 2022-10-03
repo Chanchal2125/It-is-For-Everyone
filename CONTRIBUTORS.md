@@ -75,6 +75,9 @@
 - <a href="https://github.com/beingcoder29" target="_blank">Arko</a>
 
 - <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
+
+- <a href="https://github.com/Pranauv-Kumar1803" target="_blank">Pranauv Kumar</a>
+
 - <a href="https://github.com/sulavmhrzn" target="_blank">Sulav Maharjan</a>
 
 - <a href="https://github.com/ask-1710" target="_blank">Aarthi Suresh Kumar</a>
