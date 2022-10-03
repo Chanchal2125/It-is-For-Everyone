@@ -79,3 +79,5 @@
 - <a href="https://github.com/AhmedGrati" target="_blank">Ahmed Grati</a>
 
 - <a href="https://github.com/codeswithroh" target="_blank">Rohit Purkait</a>
+
+- <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
