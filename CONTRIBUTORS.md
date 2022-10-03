@@ -1,6 +1,8 @@
 # Contributors
 - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a>
 
+- <a href="https://github.com/Siddharth2812" target="_blank">Siddharth Reddy Anthireddy</a>
+
 - <a href="https://github.com/codingis4noobs2" target="_blank">Parth Shah</a>
 
 - <a href="https://github.com/PradeepKhatri" target="_blank">Pradeep Khatri</a>
