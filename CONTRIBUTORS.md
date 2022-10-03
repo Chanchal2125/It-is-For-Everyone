@@ -93,3 +93,5 @@
 - <a href="https://github.com/Isha333-web" target="_blank">Isha</a>
 
 - <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
+
+- <a href="[https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
