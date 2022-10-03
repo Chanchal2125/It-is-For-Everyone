@@ -132,3 +132,5 @@
 - <a href="https://github.com/laksh1270" target="_blank">Laksha Sharma</a>
 
 - <a href="https://github.com/AyushMittal10" target="_blank">Ayush Mittal</a>
+
+- <a href="https://github.com/Ashutosh-Ray" target="_blank">Ashutosh Ray</a>
