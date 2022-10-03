@@ -77,6 +77,7 @@
 - <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
 - <a href="https://github.com/sulavmhrzn" target="_blank">Sulav Maharjan</a>
 
+- <a href="https://github.com/ask-1710" target="_blank">Aarthi Suresh Kumar</a>
 
 - <a href="https://github.com/ashan-tharaka" target="_blank">Ashan Tharaka</a>
 
