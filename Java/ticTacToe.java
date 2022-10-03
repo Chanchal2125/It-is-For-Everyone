@@ -73,7 +73,7 @@ public class ticTacToe {
         System.out.flush();  
     }
 }
-public class players {
+class players {
     private String name;
     private char symbol;
     public players(String name,char symbol){
@@ -97,7 +97,7 @@ public class players {
         return this.symbol;
     }
 }
-public class board {
+class board {
     private char board[][];
     private int boardSize=3;
     private char p1Symbol;
