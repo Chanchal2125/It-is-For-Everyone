@@ -1,5 +1,5 @@
 import java.util.*;
-class Third
+class calculator
 {
     void main()
     {
@@ -35,13 +35,6 @@ class Third
         {
              System.out.println("Invalid Choice");
         }
-        
-        
-        
-        
-        
-        
-        
-    
+       
     }
 }
