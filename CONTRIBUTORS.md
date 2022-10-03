@@ -136,5 +136,3 @@
 - <a href="https://github.com/Ashutosh-Ray" target="_blank">Ashutosh Ray</a>
 
 - <a href="https://github.com/0x44454c" target="_blank">0x44454c</a>
-
-- <a href="https://github.com/asubodh" target="_blank">Subodh Aryal</a>
