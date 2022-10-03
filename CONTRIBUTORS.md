@@ -100,4 +100,7 @@
 
 - <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
 
+- <a href="[https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
+
 - <a href="https://github.com/sNishant011" target="_blank">Nishant Shrestha</a>
+
