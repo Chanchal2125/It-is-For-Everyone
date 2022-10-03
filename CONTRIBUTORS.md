@@ -124,3 +124,5 @@
 - <a href="https://github.com/Moglten" target="_blank">Mohamed Saied</a>
 - <a href="https://github.com/grraghav120" target="_blank">Raghav Garg</a>
 <a href="https://github.com/parasyadav08" target="_blank">paras yadav</a>
+
+- <a href="https://github.com/AyushMittal10" target="_blank">Ayush Mittal</a>
