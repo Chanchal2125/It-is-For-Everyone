@@ -138,3 +138,5 @@
 - <a href="https://github.com/0x44454c" target="_blank">0x44454c</a>
 
 - <a href="https://github.com/asubodh" target="_blank">Subodh Aryal</a>
+
+- <a href="https://github.com/shreyasya07" target="_blank">Shreyasya Tripathi</a>
