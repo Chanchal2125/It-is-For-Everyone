@@ -1,5 +1,6 @@
 # Contributors
-
+- <a href="[https://https://github.com/Ashishatel" target="_blank">Ashish Patel</a>
+- 
 - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a>
 
 - <a href="https://github.com/codingis4noobs2" target="_blank">Parth Shah</a>
