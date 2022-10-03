@@ -21,7 +21,7 @@
 
 - <a href="https://github.com/adityahajari14" target="_blank">Aditya Hajari</a>
 
--<a href="https://github.com/Dhanshriborse" target="_blank">Dhanshri Borse</a>
+- <a href="https://github.com/Dhanshriborse" target="_blank">Dhanshri Borse</a>
 
 - <a href="https://github.com/SanketJ29" target="_blank">Sanket Jaiswal</a>
 
@@ -99,7 +99,7 @@
 
 - <a href="https://github.com/kushagra-a" target="_blank">Kushagra</a>
 
-- <a href="[https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
+- <a href="https://github.com/fawazsiddiqi" target="_blank">Fawaz Siddiqi</a>
 
 - <a href="https://github.com/sNishant011" target="_blank">Nishant Shrestha</a>
 
@@ -107,7 +107,7 @@
 
 - <a href="https://github.com/Mre11i0t" target="_blank">Pavan Karthick</a>
 
-- <a href="[https://https://github.com/Ashishatel" target="_blank">Ashish Patel</a>
+- <a href="https://github.com/Ashishatel" target="_blank">Ashish Patel</a>
 
 - <a href="https://github.com/Darainn" target="_blank">Syed Darain</a>
 
