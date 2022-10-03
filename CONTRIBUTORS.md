@@ -134,3 +134,5 @@
 - <a href="https://github.com/AyushMittal10" target="_blank">Ayush Mittal</a>
 
 - <a href="https://github.com/Ashutosh-Ray" target="_blank">Ashutosh Ray</a>
+
+- <a href="https://github.com/Mr-DJ" target="_blank">Samuel Jonathan</a>
