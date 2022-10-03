@@ -32,8 +32,8 @@
 
 - <a href="https://github.com/Shashwat49" target="_blank">Shashwat Shivam</a>
 
-- <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a> 
- 
+- <a href="https://github.com/venkat-siddarth" target="_blank">Venkat Siddarth Reddy</a>
+
 - <a href="https://github.com/mrgentlemanus" target="_blank">Utkarsh Kashyap</a>
 
 - <a href="https://github.com/temirovazat" target="_blank">Temirov Azat</a>
@@ -44,7 +44,7 @@
 
 - <a href="https://github.com/devtanumisra" target="_blank">Devtanu Misra</a>
 
-- <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a> 
+- <a href="https://github.com/pushkar2112" target="_blank">Pushkar Verma</a>
 
 - <a href="https://github.com/backtoaldo" target="_blank">Aldo Costa Silveira</a>
 
@@ -71,15 +71,11 @@
 - <a href="https://github.com/surjendu104" target="_blank">Surjendu Pal</a>
 
 - <a href="https://github.com/thecasanovaa" target="_blank">Casanova</a>
-=======
 
 - <a href="https://github.com/beingcoder29" target="_blank">Arko</a>
 
-
 - <a href="https://github.com/vaibhavx42" target="_blank">Vaibhav Bhardwaj</a>
-
 
 - <a href="https://github.com/AhmedGrati" target="_blank">Ahmed Grati</a>
 
-
->>>>>>> c9109630a8745bbd21a13213646655e157d07cbf
+- <a href="https://github.com/codeswithroh" target="_blank">Rohit Purkait</a>
