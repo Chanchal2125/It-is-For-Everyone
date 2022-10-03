@@ -1,5 +1,4 @@
 # Contributors
-
 - <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a>
 
 - <a href="https://github.com/codingis4noobs2" target="_blank">Parth Shah</a>
@@ -108,6 +107,7 @@
 
 - <a href="https://github.com/Mre11i0t" target="_blank">Pavan Karthick</a>
 
+- <a href="[https://https://github.com/Ashishatel" target="_blank">Ashish Patel</a>
 
 - <a href="https://github.com/Darainn" target="_blank">Syed Darain</a>
 
@@ -115,3 +115,8 @@
 
 - <a href="https://github.com/2devyank" target="_blank">Devyank nagpal</a>
 
+- <a href="https://github.com/CoderLovely08" target="_blank">Lovely Sharma</a>
+
+- <a href="https://github.com/Manish19629" target="_blank">Manish Prajapati</a>
+
+- <a href="https://github.com/anuj-thakur-513" target="_blank">Anuj Thakur</a>
