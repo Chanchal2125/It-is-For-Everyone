@@ -113,6 +113,8 @@
 
 - <a href="https://github.com/CaptIndhuja" target="_blank">Capt Indhuja</a>
 
+- <a href="https://github.com/2devyank" target="_blank">Devyank nagpal</a>
+
 - <a href="https://github.com/CoderLovely08" target="_blank">Lovely Sharma</a>
 
 - <a href="https://github.com/Manish19629" target="_blank">Manish Prajapati</a>
