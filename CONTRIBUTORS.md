@@ -140,3 +140,10 @@
 - <a href="https://github.com/asubodh" target="_blank">Subodh Aryal</a>
 
 - <a href="https://github.com/shreyasya07" target="_blank">Shreyasya Tripathi</a>
+
+
+- <a href="https://github.com/heyhimansh" target="_blank">HIMANSHU R</a>
+
+- <a href="https://github.com/adarsh-gupta101" target="_blank">adarsh-gupta101</a>
+
+>
