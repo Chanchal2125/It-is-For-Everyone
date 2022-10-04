@@ -16,12 +16,6 @@
 - Hurry up guys...!! You are only few steps away to complete your Hacktoberfest challenge. Make 4 pull requests and complete your hacktoberfest challenge and get a chance to win T-shirt. 
 - It is for only 1 month.
 
-# 📚 How to edit CONTRIBUTORS.md?
-- Add your name with github profile link such as 👇
-    ```
-    <a href="https://github.com/username" target="_blank">Your name</a>
-    ```
-
 # 🤩🤗 Getting Started
     
 - Fork this repo (button on top)
