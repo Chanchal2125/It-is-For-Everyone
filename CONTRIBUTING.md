@@ -9,5 +9,4 @@
 
 # 📚 Contribution rules
 - Do NOT remove other content.
-- Add your name to the <b>CONTRIBUTORS.md</b> file
 - Try to keep pull requests small to minimize merge conflicts.</li>
