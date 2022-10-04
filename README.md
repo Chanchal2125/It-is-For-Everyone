@@ -16,36 +16,17 @@
 - Hurry up guys...!! You are only few steps away to complete your Hacktoberfest challenge. Make 4 pull requests and complete your hacktoberfest challenge and get a chance to win T-shirt. 
 - It is for only 1 month.
 
-# ✨ For contribution 
-- You can contribute your code in any one language like c, c++, java, python etc.
-- Your code should be neat and clean
-- You can add any code but it should not be repeated. To avoid redundancy, check all codes before
-- Add your code to the relevant folder
-    - If your code contains Python code then it should be in python folder
-- If the folder of any language is not exists already then create it and add your code
-
-# 📚 Contribution rules
-- Do NOT remove other content.
-- Add your name to the <b>CONTRIBUTORS.md</b> file
-- Try to keep pull requests small to minimize merge conflicts.</li>
-
-# 📚 How to edit CONTRIBUTORS.md?
-- Add your name with github profile link such as 👇
-    ```
-    <a href="https://github.com/username" target="_blank">Your name</a>
-    ```
-
 # 🤩🤗 Getting Started
     
 - Fork this repo (button on top)
 - Clone on your local machine
 
 ```
-git clone https://github.com/CODING-Enthusiast9857/It-is-For-Everyone.git
+git clone https://github.com/CODING-Enthusiast9857/Hacktoberfest2022-Open-For-Everyone.git
 ```
 - Navigate to project directory.
 ```
-cd It-is-For-Everyone
+cd Hacktoberfest2022-Open-For-Everyone
 ```
 
 - Create a new Branch
@@ -95,3 +76,5 @@ Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" tar
 
 <b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 
 <br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
+<br>
+# 💻 Happy CODING...!! 💻
