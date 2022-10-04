@@ -1,5 +1,5 @@
 
-# ✨ For contribution 
+# ✨ Contribution guidelines
 - You can contribute your code in any one language like c, c++, java, python etc.
 - Your code should be neat and clean
 - You can add any code but it should not be repeated. To avoid redundancy, check all contributions before
