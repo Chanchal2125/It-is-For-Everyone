@@ -27,6 +27,7 @@
 # 📚 Contribution rules
 - Do NOT remove other content.
 - Add your name to the <b>CONTRIBUTORS.md</b> file
+- Add me as reviewer
 - Try to keep pull requests small to minimize merge conflicts.</li>
 
 # 📚 How to edit CONTRIBUTORS.md?
@@ -41,11 +42,11 @@
 - Clone on your local machine
 
 ```
-git clone https://github.com/CODING-Enthusiast9857/It-is-For-Everyone.git
+git clone https://github.com/CODING-Enthusiast9857/Hacktoberfest2022-Open-For-Everyone.git
 ```
 - Navigate to project directory.
 ```
-cd It-is-For-Everyone
+cd Hacktoberfest2022-Open-For-Everyone
 ```
 
 - Create a new Branch
@@ -95,3 +96,5 @@ Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" tar
 
 <b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 
 <br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
+<br>
+# 💻 Happy CODING...!! 💻
